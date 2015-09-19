@@ -1,9 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://gudublog.github.io/blog/2015/09/19/test-highlight/</loc>
+    <lastmod>2015-09-19T07:06:41+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/2015/09/18/generate-table-of-contents/</loc>
+    <lastmod>2015-09-18T20:00:32+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/2015/09/18/hello-world/</loc>
+    <lastmod>2015-09-18T06:00:21+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://gudublog.github.io/</loc>
   </url>
   <url>
     <loc>http://gudublog.github.io/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/bash/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/basic/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/c/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/c-plus-plus/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/c-number/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/clipper/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/coffeescript/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/delphi/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/java/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/javascript/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/matlab/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/objective-c/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/python/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/ruby/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/scala/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/swift/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/octopress/</loc>
+  </url>
+  <url>
+    <loc>http://gudublog.github.io/blog/categories/jquery-plug-in/</loc>
   </url>
 </urlset>
